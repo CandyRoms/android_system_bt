@@ -16,6 +16,7 @@
  *
  ******************************************************************************/
 #include <string.h>
+#include <log/log.h>
 
 #include "bt_common.h"
 #include "avrc_api.h"
